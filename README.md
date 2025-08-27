@@ -10,3 +10,4 @@ LectureSummarizer is an AI-powered tool that transcribes and summarizes lectures
 
 # Screenshots:
 ![Screenshot of the project](screenshot.png)
+
